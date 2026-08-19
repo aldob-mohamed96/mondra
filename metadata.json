@@ -1,0 +1,6 @@
+{
+  "name": "Mondera - عقارات قنا والصعيد",
+  "description": "تطبيق مُندرة المتكامل لعقارات قنا وصعيد مصر، يشمل حاسبة التشطيب، فحص أهلية الإسكان، خدمات المغتربين، مقارنة العقارات، وإضافة الإعلانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
